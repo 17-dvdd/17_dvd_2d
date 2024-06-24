@@ -1,7 +1,7 @@
 # 17_dvd_2d
 
 ## Boas vindas ao meu perfil 🏃‍♂️💨
-### Meu nome é [David Leandro]
+### Meu nome é David Leandro Paulo Ramos
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
